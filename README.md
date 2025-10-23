@@ -207,14 +207,3 @@ python preprocess_V1.6_stable.py loans
 
 ---
 
-## 📬 기여 방법
-
-
-1. 리포지토리를 포크.
-2. 새 브랜치 생성 (`git checkout -b feature/your-feature`).
-3. 변경사항 커밋 (`git commit -m 'Add your feature'`).
-4. 브랜치 푸시 (`git push origin feature/your-feature`).
-5. 풀 리퀘스트 생성.
-
-코드는 PEP 8 표준을 따르고 관련 테스트를 포함해주세요.
-
